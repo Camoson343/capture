@@ -1,9 +1,11 @@
 import React from 'react';
 
 const OurWork = () => {
-    <div>
-        <h1>Our Work</h1>
-    </div>
+    return(
+        <div>
+            <h1>Our Work</h1>
+        </div>
+    )
 }
 
 export default OurWork;

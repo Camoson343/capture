@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import {Layout} from '../sytles';
+import {Layout} from '../styles';
 
 const FaqSection = () => {
     return (
